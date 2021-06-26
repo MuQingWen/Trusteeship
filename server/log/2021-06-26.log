@@ -1,0 +1,25 @@
+[GIN-VUE-ADMIN]2021/06/26 - 10:19:14.656	[34minfo[0m	D:/CodeData/gin-vue-admin/server/initialize/router.go:21	use middleware logger
+[GIN-VUE-ADMIN]2021/06/26 - 10:19:14.658	[34minfo[0m	D:/CodeData/gin-vue-admin/server/initialize/router.go:24	use middleware cors
+[GIN-VUE-ADMIN]2021/06/26 - 10:19:14.658	[34minfo[0m	D:/CodeData/gin-vue-admin/server/initialize/router.go:26	register swagger handler
+[GIN-VUE-ADMIN]2021/06/26 - 10:19:14.662	[34minfo[0m	D:/CodeData/gin-vue-admin/server/initialize/router.go:56	router register success
+[GIN-VUE-ADMIN]2021/06/26 - 10:19:14.663	[34minfo[0m	D:/CodeData/gin-vue-admin/server/core/server.go:28	server run success on 	{"address": ":8888"}
+[GIN-VUE-ADMIN]2021/06/26 - 10:19:33.273	[34minfo[0m	D:/CodeData/gin-vue-admin/server/api/v1/sys_initdb.go:51	前往初始化数据库
+[GIN-VUE-ADMIN]2021/06/26 - 10:44:00.124	[34minfo[0m	register table success
+[GIN-VUE-ADMIN]2021/06/26 - 10:44:00.127	[34minfo[0m	use middleware logger
+[GIN-VUE-ADMIN]2021/06/26 - 10:44:00.127	[34minfo[0m	use middleware cors
+[GIN-VUE-ADMIN]2021/06/26 - 10:44:00.128	[34minfo[0m	register swagger handler
+[GIN-VUE-ADMIN]2021/06/26 - 10:44:00.130	[34minfo[0m	router register success
+[GIN-VUE-ADMIN]2021/06/26 - 10:44:00.131	[34minfo[0m	server run success on 	{"address": ":8888"}
+[GIN-VUE-ADMIN]2021/06/26 - 11:07:35.940	[34minfo[0m	register table success
+[GIN-VUE-ADMIN]2021/06/26 - 11:07:35.943	[34minfo[0m	use middleware logger
+[GIN-VUE-ADMIN]2021/06/26 - 11:07:35.943	[34minfo[0m	use middleware cors
+[GIN-VUE-ADMIN]2021/06/26 - 11:07:35.943	[34minfo[0m	register swagger handler
+[GIN-VUE-ADMIN]2021/06/26 - 11:07:35.944	[34minfo[0m	router register success
+[GIN-VUE-ADMIN]2021/06/26 - 11:07:35.946	[34minfo[0m	server run success on 	{"address": ":8888"}
+[GIN-VUE-ADMIN]2021/06/26 - 11:39:25.877	[34minfo[0m	register table success
+[GIN-VUE-ADMIN]2021/06/26 - 11:39:25.879	[34minfo[0m	use middleware logger
+[GIN-VUE-ADMIN]2021/06/26 - 11:39:25.879	[34minfo[0m	use middleware cors
+[GIN-VUE-ADMIN]2021/06/26 - 11:39:25.879	[34minfo[0m	register swagger handler
+[GIN-VUE-ADMIN]2021/06/26 - 11:39:25.880	[34minfo[0m	router register success
+[GIN-VUE-ADMIN]2021/06/26 - 11:39:25.881	[34minfo[0m	server run success on 	{"address": ":8888"}
+[GIN-VUE-ADMIN]2021/06/26 - 12:12:43.573	[31merror[0m	删除失败!	{"err": "此菜单存在子菜单不可删除"}
